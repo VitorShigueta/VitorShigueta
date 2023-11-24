@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vitor
 
-- 🔭 Em busca de estágios e vagas júnior
+- 🔭 Buscando me aprimorar cada vez mais
 - 📘  Estou atualmente estudando engenharia de software
 
 <div align="center">
