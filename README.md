@@ -1,4 +1,5 @@
-### Hi there, my name is Vitor
+## Hi there, my name is Vitor
+- 🔭 I am currently working as a full stack web developer, building web applications.
 
 ## 👨‍💻 🛠 technologies:
 <div style="display: inline_block">
