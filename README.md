@@ -1,4 +1,4 @@
-### Olá, eu sou o Vitor
+### Hi there, my name is Vitor
 
 ## 👨‍💻 🛠 technologies:
 <div style="display: inline_block">
